@@ -1,3 +1,2 @@
 # Web API
 Yavuz Selim KAHRAMAN hocanın [udemy kursuna](https://www.udemy.com/course/asp-net-core-mvc-api-ogrenin-a-z/) paralel olarak bu projeyi geliştirdim.
-Kurs içeriği sayesinde Web API geliştirme mantığını anladım. Projede daha önce bilmediğim NewtonSoft kütüphanesi pratikte kullanma ve öğrenme şansına eriştim. İçeriğe ek yapmış olduğum araştırmalar aracılığıyla [makaleye](https://medium.com/devopsturkiye/net-core-microservice-%C3%BCzerinde-http-client-factory-e5af01ed6f25) eriştim. Bu makalede HttpClientFactory ve HttpClient arasındaki farkı kavradım. Projede eksik gördüğünüz yerlerde bana yardım etmekten çekinmeyin. Herkese sağıklı günler.
